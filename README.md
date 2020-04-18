@@ -84,4 +84,5 @@ function schedListener() {
 
 
 # How to Use
+Accessible at https://ravalash.github.io/Work-Day-Scheduler/
 Enter scheduled events and click on the save button to the right to lock it into memory. To change the start and end of day times, choose a time from the drop down and click the button below to confirm. The reset button will allow all entries in memory to be deleted with a prompt for confirmation.
